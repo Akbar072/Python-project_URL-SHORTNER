@@ -14,3 +14,5 @@ pip install flask==2.2.5
 press enter
     
 3) open the app.py file (use VS CODE if you are new to python)
+
+After debugging click on http://127.0.0.1:8080
